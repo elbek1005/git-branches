@@ -1,1 +1,2 @@
 print('Jamol yukladi!')
+ 
